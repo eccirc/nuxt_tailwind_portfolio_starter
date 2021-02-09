@@ -1,10 +1,8 @@
 # portfolio_template_blank
 
-## SPA (somewhat rough but functional!) starter template for portfolio site - visual artist, photogrpaher etc. built with nuxt.js and tailwind CSS
-# Includes basic navbar, item scoll with IntersectionObserver API for fade on scroll, and a basic lightbox-type modal overlay
-
-
-# This could be a starting point for setting up with a headless CMS with Git continuous deployment.
+SPA (somewhat rough but functional!) starter template for portfolio site - visual artist, photogrpaher etc. built with nuxt.js and tailwind CSS
+Includes basic navbar, item scoll with IntersectionObserver API for fade on scroll, and a basic lightbox-type modal overlay
+This could be a starting point for setting up with a headless CMS with Git continuous deployment. See it in action here: https://eager-shaw-d9c098.netlify.app
 
 ## Build Setup
 
