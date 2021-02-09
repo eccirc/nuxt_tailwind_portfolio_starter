@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "violet";
+    src: local("violet"),     url(~assets/fonts/VioletSans-Regular.ttf) format("truetype");
+    
+}
+
+.violet-sans {
+    font-family: "violet";
+    
+}
